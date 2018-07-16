@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="257a4226-217e-4b95-aeb8-14f89a9946e9" Title="Ejyle.DevAccelerate.Core.EF" Url="html/b964548f-3f5f-8367-0724-7487dff544b8.htm">
+    <HelpTOCNode Id="21deca78-5b4e-47a8-8e1f-ca8ba8bdc8a8" Title="DaEntityRepositoryBase(TKey, TEntity, TDbContext) Class" Url="html/05f20c6c-23d6-526b-659f-b2584648b67a.htm">
+      <HelpTOCNode Id="4b13274c-a9dc-4710-8c6d-3ac45fa4ae3b" Title="DaEntityRepositoryBase(TKey, TEntity, TDbContext) Constructor " Url="html/81c67cc5-83be-aed9-5bba-f2976da672e7.htm">
+        <HelpTOCNode Title="DaEntityRepositoryBase(TKey, TEntity, TDbContext) Constructor (TDbContext)" Url="html/8c6ac3e3-3d12-797a-8892-19bbd0fb19b2.htm" />
+        <HelpTOCNode Title="DaEntityRepositoryBase(TKey, TEntity, TDbContext) Constructor (TDbContext, Boolean)" Url="html/033ace46-e20a-9e46-12d0-28bb9c581da0.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9bd6e307-cc1b-4eda-8476-4db56282af33" Title="DaEntityRepositoryBase(TKey, TEntity, TDbContext) Properties" Url="html/c7de858e-3472-cc9b-461d-a317367598dc.htm">
+        <HelpTOCNode Title="DbContext Property " Url="html/0d061160-fbd1-8b92-162e-ae55448f7927.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3dd6b1ca-9a7c-402c-809f-de3ac1f8a05c" Title="DaEntityRepositoryBase(TKey, TEntity, TDbContext) Methods" Url="html/45e277cc-3e40-35ab-0717-371a4767171a.htm">
+        <HelpTOCNode Id="b3723755-e2ec-4996-ad6b-cd7e7252162b" Title="Dispose Method " Url="html/6e20e2b4-2b1a-8354-51ed-127e408d687a.htm">
+          <HelpTOCNode Title="Dispose Method " Url="html/91efdd89-bcd3-b818-29da-b047b6d680b5.htm" />
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/296ef84b-5db2-8ef4-6f14-c4cd07612805.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
