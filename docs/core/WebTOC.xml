@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="498478f7-2cd8-45e8-bd61-e907535cb5d1" Title="Ejyle.DevAccelerate.Core Namespaces" Url="html/83a32fb7-518b-bf59-1bb3-8815b80a33ad.htm">
-    <HelpTOCNode Id="14f0f43e-d08d-4c23-a66d-31d7d5b1d9f3" Title="Ejyle.DevAccelerate.Core" Url="html/f8ff17ad-9af8-b4cc-e823-857ebc8132c2.htm">
-      <HelpTOCNode Id="1d90877f-9241-4256-b682-c5a0f9ab6561" Title="DaApplicationContext Class" Url="html/232a3ddc-23db-87f5-450a-aeeaa054dd71.htm">
+  <HelpTOCNode Id="165be95a-5fc1-4681-8595-af64f9d76246" Title="Ejyle.DevAccelerate.Core Namespaces" Url="html/83a32fb7-518b-bf59-1bb3-8815b80a33ad.htm">
+    <HelpTOCNode Id="d9b0fab8-46ce-4d57-8719-e1f859b9294e" Title="Ejyle.DevAccelerate.Core" Url="html/f8ff17ad-9af8-b4cc-e823-857ebc8132c2.htm">
+      <HelpTOCNode Id="f90e149a-fa84-4e4c-b693-ce708f819d83" Title="DaApplicationContext Class" Url="html/232a3ddc-23db-87f5-450a-aeeaa054dd71.htm">
         <HelpTOCNode Title="DaApplicationContext Constructor " Url="html/af183034-b5fe-7b0e-fa8d-2d569c6277fc.htm" />
-        <HelpTOCNode Id="01eb7da4-6455-4011-938c-e26e95f7e460" Title="DaApplicationContext Methods" Url="html/b67a20ee-9be5-15dc-0954-acd21f77fc95.htm">
-          <HelpTOCNode Id="d415d59f-90f1-497e-a850-e1776cc88570" Title="CreateCacheManager Method " Url="html/c6b4fe9f-f003-ef4c-3f09-e3f4255d346e.htm">
+        <HelpTOCNode Id="d99b5a05-6151-4427-b4d0-60253163c6ed" Title="DaApplicationContext Methods" Url="html/b67a20ee-9be5-15dc-0954-acd21f77fc95.htm">
+          <HelpTOCNode Id="677bd904-32aa-4ce8-8cf0-1f9d9ade5396" Title="CreateCacheManager Method " Url="html/c6b4fe9f-f003-ef4c-3f09-e3f4255d346e.htm">
             <HelpTOCNode Title="CreateCacheManager(TCacheManager) Method " Url="html/6dfb738f-fe6c-7a28-e77d-463552762cbe.htm" />
             <HelpTOCNode Title="CreateCacheManager Method " Url="html/c50577b9-3c2a-0184-f710-20279e31c51b.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="98badafe-6f56-4f39-83b2-986e1dadad62" Title="CreateExceptionManager Method " Url="html/63714829-7585-42d1-8f36-8df35827daf5.htm">
+          <HelpTOCNode Id="8de5d362-dcb8-4348-9997-e72ea2f23a26" Title="CreateExceptionManager Method " Url="html/63714829-7585-42d1-8f36-8df35827daf5.htm">
             <HelpTOCNode Title="CreateExceptionManager(TExceptionManager) Method " Url="html/8828aac5-ffaf-e48d-f9a8-2369808c5583.htm" />
             <HelpTOCNode Title="CreateExceptionManager Method " Url="html/36eb2fc1-c93c-fa5b-d913-2b221a7de0c7.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="5fd4cd3c-469d-4dab-a706-e6685b1ab0bd" Title="CreateLogManager Method " Url="html/d6ec10c1-5c25-e165-59bf-d58e5886bd9d.htm">
+          <HelpTOCNode Id="f7f636af-015f-46c7-bcee-9b1b7967a389" Title="CreateLogManager Method " Url="html/d6ec10c1-5c25-e165-59bf-d58e5886bd9d.htm">
             <HelpTOCNode Title="CreateLogManager(TLogManager) Method " Url="html/9c156c15-e5ae-ff73-4666-19829c530bff.htm" />
             <HelpTOCNode Title="CreateLogManager Method " Url="html/6a7a0f2d-d73d-6deb-80f8-2c673aa61263.htm" />
           </HelpTOCNode>
@@ -22,67 +22,75 @@
           <HelpTOCNode Title="SetupConfiguration(TConfigurationSection) Method " Url="html/b4063dce-1abb-f2b6-adb6-edf524cafb10.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="64a8f876-51a2-4a55-ab27-ed3bacc83a88" Title="DaEntityBase Class" Url="html/613359b7-0620-f3a1-845b-ed7fa1bfb275.htm">
+      <HelpTOCNode Id="f4245ad7-9300-4496-b26c-7887693d0b46" Title="DaAsyncHelper Class" Url="html/b0f7132d-12a9-dc03-b616-4797cce79f0b.htm">
+        <HelpTOCNode Id="80cda313-b497-4a80-b318-e0dd013831af" Title="DaAsyncHelper Methods" Url="html/bb955d4d-8f36-9abb-16ad-3f4232a2eb0c.htm">
+          <HelpTOCNode Id="d8a5ecd6-f5b0-478b-9bd6-9591f335b978" Title="RunSync Method " Url="html/32a7e7e2-1371-47af-339f-f6f2aee156f9.htm">
+            <HelpTOCNode Title="RunSync(TResult) Method (Func(Task(TResult)))" Url="html/2756275c-5218-5947-deaa-81f482555352.htm" />
+            <HelpTOCNode Title="RunSync Method (Func(Task))" Url="html/3bf9555b-a460-aa9a-f2e2-0724f756456f.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="3b8a19ca-95b8-4b91-84d3-0fae4e8248ba" Title="DaEntityBase Class" Url="html/613359b7-0620-f3a1-845b-ed7fa1bfb275.htm">
         <HelpTOCNode Title="DaEntityBase Constructor " Url="html/7ecca9e3-4419-3600-b5f3-96484346e4c2.htm" />
         <HelpTOCNode Title="DaEntityBase Properties" Url="html/8e28a696-5f3c-222e-1e13-c1ed632a8cd5.htm" />
         <HelpTOCNode Title="DaEntityBase Methods" Url="html/b637a2e9-dcde-2d6c-0ee9-7a3d5c3e71b6.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="e738a728-f64f-464f-9e22-aed669d6618d" Title="DaEntityBase(TKey) Class" Url="html/fef3bf6a-9440-8645-24f7-6369862ebdf0.htm">
+      <HelpTOCNode Id="c6b614c5-79f1-4178-b7be-79e56a51753e" Title="DaEntityBase(TKey) Class" Url="html/fef3bf6a-9440-8645-24f7-6369862ebdf0.htm">
         <HelpTOCNode Title="DaEntityBase(TKey) Constructor " Url="html/15b20c5f-3f22-f331-6f9c-fbd1cd9a00b0.htm" />
-        <HelpTOCNode Id="f9afb6bd-e00b-45f2-9369-6287d7492b71" Title="DaEntityBase(TKey) Properties" Url="html/4c490398-9ae0-8751-edf5-0e9153c7c9a6.htm">
+        <HelpTOCNode Id="98005261-02cf-4b49-9f41-f616b5f64520" Title="DaEntityBase(TKey) Properties" Url="html/4c490398-9ae0-8751-edf5-0e9153c7c9a6.htm">
           <HelpTOCNode Title="Id Property " Url="html/5bee8476-4ea1-8048-ad4a-5e9ad8721ba3.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="DaEntityBase(TKey) Methods" Url="html/44700a36-b953-cca1-8cd6-07a6f4ed4ba8.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="960d2325-05c1-4974-9a00-3dacc6820677" Title="DaEntityManagerBase(TKey, TEntity, TEntityRepository) Class" Url="html/352b99c0-cbe9-adce-02c3-ef2a6e2daa9e.htm">
+      <HelpTOCNode Id="7266c137-be50-46da-ba8c-5f0e67939635" Title="DaEntityManagerBase(TKey, TEntity, TEntityRepository) Class" Url="html/352b99c0-cbe9-adce-02c3-ef2a6e2daa9e.htm">
         <HelpTOCNode Title="DaEntityManagerBase(TKey, TEntity, TEntityRepository) Constructor " Url="html/58596800-0c33-23e8-c3f9-bf6ef62fbd7f.htm" />
-        <HelpTOCNode Id="23abb5f5-e8c0-42aa-a7c8-7391edecb1a7" Title="DaEntityManagerBase(TKey, TEntity, TEntityRepository) Properties" Url="html/d1723be9-e7b0-2976-9207-f40a901a016e.htm">
+        <HelpTOCNode Id="5738177f-937e-4d52-964f-10194c645c2c" Title="DaEntityManagerBase(TKey, TEntity, TEntityRepository) Properties" Url="html/d1723be9-e7b0-2976-9207-f40a901a016e.htm">
           <HelpTOCNode Title="Repository Property " Url="html/f26adb81-db6d-31d3-46db-86763188dd79.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="638373af-0c6d-4c05-8d56-03a9aea96d61" Title="DaEntityManagerBase(TKey, TEntity, TEntityRepository) Methods" Url="html/967d8228-2695-f685-afd1-0fcd2b2585af.htm">
-          <HelpTOCNode Id="47a48aba-256f-4625-a56d-3877b70f3fe8" Title="Dispose Method " Url="html/8c89b696-afed-8107-7c55-23da98b7f2f7.htm">
+        <HelpTOCNode Id="1a827cbf-38ff-40ac-a909-93343785e947" Title="DaEntityManagerBase(TKey, TEntity, TEntityRepository) Methods" Url="html/967d8228-2695-f685-afd1-0fcd2b2585af.htm">
+          <HelpTOCNode Id="e73c6349-fa00-4c8d-b91b-fef102079806" Title="Dispose Method " Url="html/8c89b696-afed-8107-7c55-23da98b7f2f7.htm">
             <HelpTOCNode Title="Dispose Method " Url="html/8b99a0f9-8e31-8e95-96f8-3bbb851f8584.htm" />
             <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/b890cd99-dc74-9559-b78a-0a58e87bcf33.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="756ab1dd-0fb3-4e08-9974-8db100c4a373" Title="IDaEntity(TKey) Interface" Url="html/85ae83fb-bd21-2b44-e034-8ff59066eb6b.htm">
-        <HelpTOCNode Id="d54fdc96-8b5d-4e7d-b4d4-3a1025bf0050" Title="IDaEntity(TKey) Properties" Url="html/611f0560-82a4-76be-a61c-167c3671f762.htm">
+      <HelpTOCNode Id="e445581e-9e48-4c00-b681-53248a4291af" Title="IDaEntity(TKey) Interface" Url="html/85ae83fb-bd21-2b44-e034-8ff59066eb6b.htm">
+        <HelpTOCNode Id="0b1270cd-b079-43f1-9608-abcebdee4935" Title="IDaEntity(TKey) Properties" Url="html/611f0560-82a4-76be-a61c-167c3671f762.htm">
           <HelpTOCNode Title="Id Property " Url="html/465b2916-4213-46f2-c5c6-900a88dd6346.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="14564e4b-c9d4-4501-8b98-b45340d11dc1" Title="IDaEntityManager(TKey, TEntity, TEntityRepository) Interface" Url="html/203af40a-ed19-73e2-5973-2b47ed449d2e.htm">
+      <HelpTOCNode Id="9a9cb819-7a8d-4e01-a6c8-84f201490c24" Title="IDaEntityManager(TKey, TEntity, TEntityRepository) Interface" Url="html/203af40a-ed19-73e2-5973-2b47ed449d2e.htm">
         <HelpTOCNode Title="IDaEntityManager(TKey, TEntity, TEntityRepository) Methods" Url="html/bd58f2b3-42c6-18a3-ccde-70d7d82dfec9.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="2aabadf2-5219-4db1-924f-1a244255a145" Title="IDaEntityRepository(TKey, TEntity) Interface" Url="html/8a7582fa-d14f-a061-fb4d-5fe4dc72fc6c.htm">
+      <HelpTOCNode Id="2b26b0a1-00bc-4d59-a21d-ab22b9819a76" Title="IDaEntityRepository(TKey, TEntity) Interface" Url="html/8a7582fa-d14f-a061-fb4d-5fe4dc72fc6c.htm">
         <HelpTOCNode Title="IDaEntityRepository(TKey, TEntity) Methods" Url="html/d20ae38a-24fa-36ca-0c8e-e2d24af8c9d8.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="42e3fe0c-c70f-4cc2-a02a-aaf8edfc17e6" Title="Ejyle.DevAccelerate.Core.Caching" Url="html/7aedf5c1-7ddc-721a-cb52-1cd580a560fe.htm">
-      <HelpTOCNode Id="39b54c15-9758-43ae-afc6-fb694c028096" Title="DaCachingConfigurationSection Class" Url="html/0495bd6c-e384-3996-f40c-04318221739e.htm">
+    <HelpTOCNode Id="7b891ec6-36bf-4885-89ab-c7f7c776ccec" Title="Ejyle.DevAccelerate.Core.Caching" Url="html/7aedf5c1-7ddc-721a-cb52-1cd580a560fe.htm">
+      <HelpTOCNode Id="4902d783-1a87-46d0-8be8-def2d2be34a1" Title="DaCachingConfigurationSection Class" Url="html/0495bd6c-e384-3996-f40c-04318221739e.htm">
         <HelpTOCNode Title="DaCachingConfigurationSection Constructor " Url="html/861972fc-dee1-eb38-68c9-e682717ebd89.htm" />
         <HelpTOCNode Title="DaCachingConfigurationSection Properties" Url="html/043e1e11-28fe-7e1e-d20d-b156202398b8.htm" />
-        <HelpTOCNode Id="21412af3-7cb3-4d1d-bc25-f0eb6dae5a3e" Title="DaCachingConfigurationSection Methods" Url="html/d5b0fb73-3247-28cb-527e-d7f169aaef61.htm">
+        <HelpTOCNode Id="2013db67-669b-4e73-aa8e-0b8b2a5efb92" Title="DaCachingConfigurationSection Methods" Url="html/d5b0fb73-3247-28cb-527e-d7f169aaef61.htm">
           <HelpTOCNode Title="GetConfigurationSectionName Method " Url="html/baa24dfd-62f9-ff35-0600-b6fc8243ea82.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="c4320199-ed9a-488e-9501-79eb99ee6d5e" Title="DaDefaultCacheManager Class" Url="html/4ff02083-fab8-6c4d-4eeb-6b0f840ce3b0.htm">
+      <HelpTOCNode Id="bce57438-81e4-4a4f-8411-76a956b039e8" Title="DaDefaultCacheManager Class" Url="html/4ff02083-fab8-6c4d-4eeb-6b0f840ce3b0.htm">
         <HelpTOCNode Title="DaDefaultCacheManager Constructor " Url="html/7173be6d-eb8e-b56f-2b3a-8ff5f73d31c6.htm" />
-        <HelpTOCNode Id="cdd3bdd1-ba9c-4a55-9c60-7546a348d3a2" Title="DaDefaultCacheManager Properties" Url="html/2f79b704-87c9-4a8a-4291-92100e46dbcc.htm">
+        <HelpTOCNode Id="e9656759-3a82-4f98-8488-5f81d6c532d2" Title="DaDefaultCacheManager Properties" Url="html/2f79b704-87c9-4a8a-4291-92100e46dbcc.htm">
           <HelpTOCNode Title="Count Property " Url="html/6791a39f-e809-10cb-dccf-9fcc85fa2849.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="8d4ee271-417d-4c9c-965b-980d5c8baef0" Title="DaDefaultCacheManager Methods" Url="html/8cecb751-8d22-35d8-0871-3da4d0a74d77.htm">
+        <HelpTOCNode Id="f3499361-5d52-4fdf-b8c3-dae2e6089814" Title="DaDefaultCacheManager Methods" Url="html/8cecb751-8d22-35d8-0871-3da4d0a74d77.htm">
           <HelpTOCNode Title="Add Method " Url="html/bf22ce0c-71de-c3a8-cca9-175354f4cbcb.htm" />
           <HelpTOCNode Title="Contains Method " Url="html/a5319a6e-79ae-241d-9e2c-9cd956e24113.htm" />
           <HelpTOCNode Title="Flush Method " Url="html/6d5bedcb-8e74-52c6-349e-433906e94a2b.htm" />
           <HelpTOCNode Title="GetData Method " Url="html/9f60430b-c561-b278-487b-3ee9a77b5390.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="f30f78ff-0172-491f-8f99-4363ce7060bb" Title="IDaCacheManager Interface" Url="html/7eebab1b-3c94-a926-6478-6d983e7425c6.htm">
-        <HelpTOCNode Id="ddef7228-bf98-4421-aaee-c26b7427c990" Title="IDaCacheManager Properties" Url="html/0c4951fb-afb8-52bb-cbc5-229d4966cad3.htm">
+      <HelpTOCNode Id="92cee431-e221-48a9-9ca1-e5d43cad4d21" Title="IDaCacheManager Interface" Url="html/7eebab1b-3c94-a926-6478-6d983e7425c6.htm">
+        <HelpTOCNode Id="797fcb32-59a5-426c-b1f1-ac548b53f892" Title="IDaCacheManager Properties" Url="html/0c4951fb-afb8-52bb-cbc5-229d4966cad3.htm">
           <HelpTOCNode Title="Count Property " Url="html/f3bd6518-21b3-4fd5-f709-6c877a70b960.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="b0b05b5d-e46a-4e1c-a39e-76398a1e3ab2" Title="IDaCacheManager Methods" Url="html/d722853d-6a08-8228-1565-df206d8ace6b.htm">
+        <HelpTOCNode Id="328cd7f6-8a38-4248-bae1-751575083bc5" Title="IDaCacheManager Methods" Url="html/d722853d-6a08-8228-1565-df206d8ace6b.htm">
           <HelpTOCNode Title="Add Method " Url="html/2499a82b-aab2-bf43-f77a-4442f3d3903c.htm" />
           <HelpTOCNode Title="Contains Method " Url="html/ac1addf3-8803-c103-c874-a8a99e4731a3.htm" />
           <HelpTOCNode Title="Flush Method " Url="html/e0405927-1206-b6d2-3746-2ccf98f5da05.htm" />
@@ -90,11 +98,11 @@
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="618ced55-c357-4a2a-b30b-8945bbd7db54" Title="Ejyle.DevAccelerate.Core.Configuration" Url="html/e329cda0-09bc-9e9b-68b9-53b8fe86afc0.htm">
-      <HelpTOCNode Id="816ea8b2-e2f4-4415-9e14-caefe69a7514" Title="DaConfigurationSection Class" Url="html/cf30d799-47d1-f716-0a46-3f84ea48ea4e.htm">
+    <HelpTOCNode Id="562dcf1a-9dc6-437a-9dca-358805b74adc" Title="Ejyle.DevAccelerate.Core.Configuration" Url="html/e329cda0-09bc-9e9b-68b9-53b8fe86afc0.htm">
+      <HelpTOCNode Id="f9b51efa-659a-45a9-b277-7add857508b1" Title="DaConfigurationSection Class" Url="html/cf30d799-47d1-f716-0a46-3f84ea48ea4e.htm">
         <HelpTOCNode Title="DaConfigurationSection Constructor " Url="html/45da1095-67a9-a6f1-a4e2-73883f71e75c.htm" />
         <HelpTOCNode Title="DaConfigurationSection Properties" Url="html/66c14424-9183-0588-764d-08720aee412c.htm" />
-        <HelpTOCNode Id="c08d21fb-3cb2-431c-9f99-48adf7e7d34c" Title="DaConfigurationSection Methods" Url="html/de3fcff9-0534-cef5-89c7-6219de644b51.htm">
+        <HelpTOCNode Id="f729b621-621a-495f-9ac4-98b47859cc53" Title="DaConfigurationSection Methods" Url="html/de3fcff9-0534-cef5-89c7-6219de644b51.htm">
           <HelpTOCNode Title="GetConfigurationSectionName Method " Url="html/b10aa8bd-d35c-5858-fc25-1ded4d4990fe.htm" />
           <HelpTOCNode Title="GetProtectionProviderByName Method " Url="html/65e027b0-1065-a300-5744-3db59ca5e49a.htm" />
           <HelpTOCNode Title="GetSchema Method " Url="html/4b5e1f83-de75-0731-5a84-7b60005002d6.htm" />
@@ -102,44 +110,44 @@
           <HelpTOCNode Title="WriteXml Method " Url="html/3bb314d9-567b-23c0-bbf6-cfd9daca6cdb.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="27271d6c-efcc-4868-8193-2c0896e703b1" Title="DaDefaultConfigurationSource Class" Url="html/dd53f385-f152-0ff7-74f4-0b22668f258d.htm">
+      <HelpTOCNode Id="f8ae8171-ef0b-46c2-9a28-00382ce0b04f" Title="DaDefaultConfigurationSource Class" Url="html/dd53f385-f152-0ff7-74f4-0b22668f258d.htm">
         <HelpTOCNode Title="DaDefaultConfigurationSource Constructor " Url="html/2bbd64a6-39ea-d9dc-6feb-22fe46dd3acc.htm" />
-        <HelpTOCNode Id="d15c9cbc-d39b-4ce9-9c25-73462f04ae1d" Title="DaDefaultConfigurationSource Methods" Url="html/52ff9ecc-816a-8f77-84a5-20d673c1cdf7.htm">
+        <HelpTOCNode Id="73717333-b504-4e54-a99f-895043e18b46" Title="DaDefaultConfigurationSource Methods" Url="html/52ff9ecc-816a-8f77-84a5-20d673c1cdf7.htm">
           <HelpTOCNode Title="GetConfigurationSection(T) Method " Url="html/34a7ac2f-6b63-a480-49c0-653f985be340.htm" />
           <HelpTOCNode Title="Save Method " Url="html/46f30814-6e57-fe30-451d-7ed758ea5069.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="da43877f-0f98-40db-b23a-cca4e95a7b15" Title="DaFileConfigurationSource Class" Url="html/7dec21d0-243d-0d35-be5c-8a2f10da2602.htm">
+      <HelpTOCNode Id="986a2ae8-297d-4609-b882-e3eb92be00b1" Title="DaFileConfigurationSource Class" Url="html/7dec21d0-243d-0d35-be5c-8a2f10da2602.htm">
         <HelpTOCNode Title="DaFileConfigurationSource Constructor " Url="html/0a083645-af32-7a9d-eaa0-1d74404e2176.htm" />
-        <HelpTOCNode Id="c4d49334-f78e-4bcd-a6ba-f12d2a25f8d9" Title="DaFileConfigurationSource Properties" Url="html/f8e3dd38-f224-e63e-3060-046e83a71860.htm">
+        <HelpTOCNode Id="acd2560d-0e32-4eea-9dfa-84caa0bb18d5" Title="DaFileConfigurationSource Properties" Url="html/f8e3dd38-f224-e63e-3060-046e83a71860.htm">
           <HelpTOCNode Title="Configuration Property " Url="html/07a131d4-73fd-1790-6733-a15826b0574c.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="14176bf8-3cb6-4a56-86c0-38b13a6e65ae" Title="DaFileConfigurationSource Methods" Url="html/a5d33bf1-d593-4a2f-e3f5-a87c45dcf77b.htm">
+        <HelpTOCNode Id="b3f07eea-fb77-4fad-85f5-f5baa695ef4f" Title="DaFileConfigurationSource Methods" Url="html/a5d33bf1-d593-4a2f-e3f5-a87c45dcf77b.htm">
           <HelpTOCNode Title="GetConfigurationSection(T) Method " Url="html/872de5cd-1f77-ce88-5e85-bcb9a3336881.htm" />
           <HelpTOCNode Title="Save Method " Url="html/2436ab6a-7b90-3ec0-50d3-24d38aaf9e2d.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="561f48d9-6849-46ef-96b6-7d29c51f7596" Title="DaProviderConfigurationElement Class" Url="html/a0de3f52-2f1a-0bf6-64b9-9437c82c6482.htm">
+      <HelpTOCNode Id="8e834dee-6ea4-4d49-a9d8-23d384574914" Title="DaProviderConfigurationElement Class" Url="html/a0de3f52-2f1a-0bf6-64b9-9437c82c6482.htm">
         <HelpTOCNode Title="DaProviderConfigurationElement Constructor " Url="html/cfd4f039-5899-1b40-f3d2-c2fb19800774.htm" />
-        <HelpTOCNode Id="a07fd269-1122-4600-8ae8-719d8777bc97" Title="DaProviderConfigurationElement Properties" Url="html/908255ed-8775-68e8-3411-c35472a608b7.htm">
+        <HelpTOCNode Id="a6eade5d-1743-4235-a68a-8a046b34ea15" Title="DaProviderConfigurationElement Properties" Url="html/908255ed-8775-68e8-3411-c35472a608b7.htm">
           <HelpTOCNode Title="Name Property " Url="html/5294fafd-cc3e-001e-b2b4-e2235eeb2330.htm" />
           <HelpTOCNode Title="Type Property " Url="html/dca384ed-94f0-878a-aefe-5634f57c4813.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="DaProviderConfigurationElement Methods" Url="html/e0343afe-2c12-3d15-f1c1-60f9018ea686.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="b67e6fd0-cccc-413b-a79b-d30ddb13e987" Title="DaProviderConfigurationElementCollection Class" Url="html/7cb9d96d-5761-ab46-6f76-635e345915b4.htm">
+      <HelpTOCNode Id="b21bb911-3690-4efb-8fd4-9eb335437d38" Title="DaProviderConfigurationElementCollection Class" Url="html/7cb9d96d-5761-ab46-6f76-635e345915b4.htm">
         <HelpTOCNode Title="DaProviderConfigurationElementCollection Constructor " Url="html/7cafbb49-dffc-c1c8-b7bb-ad6819bd59a7.htm" />
         <HelpTOCNode Title="DaProviderConfigurationElementCollection Properties" Url="html/655c0057-7267-c618-9bc2-cbf20decea54.htm" />
-        <HelpTOCNode Id="acf4f880-ba7f-4e4a-a887-dab763c6f9f3" Title="DaProviderConfigurationElementCollection Methods" Url="html/4b26bee8-5d46-0a4c-641d-37e117d091ea.htm">
-          <HelpTOCNode Id="cb7dbe7b-fd76-451d-90e2-29f7a1686d9b" Title="CreateNewElement Method " Url="html/30f72f32-a394-f4a5-e406-119abba6b236.htm">
+        <HelpTOCNode Id="a7ae8a73-1763-4ae5-8f7a-4bbb1978e0df" Title="DaProviderConfigurationElementCollection Methods" Url="html/4b26bee8-5d46-0a4c-641d-37e117d091ea.htm">
+          <HelpTOCNode Id="ec8b3c2f-cdd4-4830-9aa8-2ed68436561d" Title="CreateNewElement Method " Url="html/30f72f32-a394-f4a5-e406-119abba6b236.htm">
             <HelpTOCNode Title="CreateNewElement Method " Url="html/5fb11863-84e1-77a5-f932-1b7ef289e508.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="e3e129b1-c2ba-4ba2-8350-96c657512690" Title="DaProviderConfigurationElementCollection(TDaProviderConfigurationElement) Class" Url="html/39fffe2d-bae4-a747-8897-39a88ba72be4.htm">
+      <HelpTOCNode Id="533f3fbd-319f-4c72-b9cf-2fec8ddb5d89" Title="DaProviderConfigurationElementCollection(TDaProviderConfigurationElement) Class" Url="html/39fffe2d-bae4-a747-8897-39a88ba72be4.htm">
         <HelpTOCNode Title="DaProviderConfigurationElementCollection(TDaProviderConfigurationElement) Constructor " Url="html/005e58da-86c0-7f29-8411-9dd83228e923.htm" />
         <HelpTOCNode Title="DaProviderConfigurationElementCollection(TDaProviderConfigurationElement) Properties" Url="html/e3af29ab-76cc-0245-3509-f8b7e9714d15.htm" />
-        <HelpTOCNode Id="e1a26af2-f126-419c-a41f-998b98541f44" Title="DaProviderConfigurationElementCollection(TDaProviderConfigurationElement) Methods" Url="html/2841101f-9ea6-83a8-29f4-3084540798c2.htm">
+        <HelpTOCNode Id="0aeae862-b46c-4097-9185-ef39669249b7" Title="DaProviderConfigurationElementCollection(TDaProviderConfigurationElement) Methods" Url="html/2841101f-9ea6-83a8-29f4-3084540798c2.htm">
           <HelpTOCNode Title="Add Method " Url="html/2bbb428d-bd1e-c490-2690-de97c4739c4a.htm" />
           <HelpTOCNode Title="GetByName Method " Url="html/67395a19-d978-66f0-2e3b-94b53b806f47.htm" />
           <HelpTOCNode Title="GetElementKey Method " Url="html/eafae0f0-af0a-8879-9400-bacef8fc08c3.htm" />
@@ -147,56 +155,56 @@
           <HelpTOCNode Title="RemoveAt Method " Url="html/96dd9a6f-a8e8-f3df-0d58-2647d1c213e6.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="a2c69ed1-569f-4438-ade3-05c443ca6bfd" Title="DaProviderConfigurationSection Class" Url="html/a861d6b5-9068-72c3-2984-b235695b3502.htm">
+      <HelpTOCNode Id="2b5e3f1e-2b3c-436d-bcb7-28044f721d1c" Title="DaProviderConfigurationSection Class" Url="html/a861d6b5-9068-72c3-2984-b235695b3502.htm">
         <HelpTOCNode Title="DaProviderConfigurationSection Constructor " Url="html/b7039d9f-9233-6cde-4be0-bedad8183306.htm" />
         <HelpTOCNode Title="DaProviderConfigurationSection Properties" Url="html/7cdc713f-b77b-5dfd-46e6-013a8773ba19.htm" />
         <HelpTOCNode Title="DaProviderConfigurationSection Methods" Url="html/30d53b54-c72e-8742-5ef5-817d6ddc66ac.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="53e8c497-749f-4fe3-b60c-0e45d8fb3eff" Title="DaProviderConfigurationSection(TProviderConfigurationElementCollection, TDaProviderConfigurationElement) Class" Url="html/dac2abcb-4ed0-bd4f-185d-a932cde6bc7d.htm">
+      <HelpTOCNode Id="cbdcc9be-853e-45e5-9cdb-b632dbe44edf" Title="DaProviderConfigurationSection(TProviderConfigurationElementCollection, TDaProviderConfigurationElement) Class" Url="html/dac2abcb-4ed0-bd4f-185d-a932cde6bc7d.htm">
         <HelpTOCNode Title="DaProviderConfigurationSection(TProviderConfigurationElementCollection, TDaProviderConfigurationElement) Constructor " Url="html/34dc1885-ac02-0564-efbe-6b1b9deeebec.htm" />
-        <HelpTOCNode Id="3ab0b7d3-e659-4500-8cc5-8396164eda0b" Title="DaProviderConfigurationSection(TProviderConfigurationElementCollection, TDaProviderConfigurationElement) Properties" Url="html/2d9bd4c3-6d90-7a40-4861-005dad3ed886.htm">
+        <HelpTOCNode Id="cd58bcc7-51d5-4fac-b676-7b7c9034dc93" Title="DaProviderConfigurationSection(TProviderConfigurationElementCollection, TDaProviderConfigurationElement) Properties" Url="html/2d9bd4c3-6d90-7a40-4861-005dad3ed886.htm">
           <HelpTOCNode Title="DefaultProvider Property " Url="html/c6abaedb-1ae4-8d55-fcd4-a3f318c173ae.htm" />
           <HelpTOCNode Title="Providers Property " Url="html/9fdbda73-c027-64c2-8e25-851629ebaa3e.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="DaProviderConfigurationSection(TProviderConfigurationElementCollection, TDaProviderConfigurationElement) Methods" Url="html/8ebd5560-5d76-984a-37bc-a2a1de975bb2.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="920da90f-bb51-4c36-8193-8bac147aeb5f" Title="IDaConfigurationSource Interface" Url="html/de5d4975-325a-1618-1e08-a6392f5e8980.htm">
-        <HelpTOCNode Id="70895077-1679-46b3-a026-267574bb5804" Title="IDaConfigurationSource Methods" Url="html/62140d40-b495-032c-7a9f-ea9aee97d404.htm">
+      <HelpTOCNode Id="bb3d135d-0dbd-491e-b5d0-d34170de585e" Title="IDaConfigurationSource Interface" Url="html/de5d4975-325a-1618-1e08-a6392f5e8980.htm">
+        <HelpTOCNode Id="4ad5d252-0c7d-47ed-981a-ba7b64db7e42" Title="IDaConfigurationSource Methods" Url="html/62140d40-b495-032c-7a9f-ea9aee97d404.htm">
           <HelpTOCNode Title="GetConfigurationSection(TConfigurationSection) Method " Url="html/bd08892d-e358-0282-cdc0-a8bd7f53ab56.htm" />
           <HelpTOCNode Title="Save Method " Url="html/9280685b-8e7d-2b36-b5c1-c5b099ca1285.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="9da52bdb-c08e-462f-8128-7d3e377f281c" Title="Ejyle.DevAccelerate.Core.Exceptions" Url="html/34c922fd-0da9-78c5-652d-142f26626c1b.htm">
-      <HelpTOCNode Id="e4b008aa-0216-472f-b761-08534c168ddb" Title="DaExceptionHandlingConfigurationSection Class" Url="html/0e7a5b1b-09f9-dee7-5f4d-609a81767728.htm">
+    <HelpTOCNode Id="5f75b985-ad17-4b8b-b908-4b49150fc6cd" Title="Ejyle.DevAccelerate.Core.Exceptions" Url="html/34c922fd-0da9-78c5-652d-142f26626c1b.htm">
+      <HelpTOCNode Id="eecd3da4-9325-47f9-9f58-e1d79367dd20" Title="DaExceptionHandlingConfigurationSection Class" Url="html/0e7a5b1b-09f9-dee7-5f4d-609a81767728.htm">
         <HelpTOCNode Title="DaExceptionHandlingConfigurationSection Constructor " Url="html/6cb3138d-a2dd-3d8a-848c-202a898686bb.htm" />
-        <HelpTOCNode Id="82384a21-66ef-4938-ac54-c635a75ea6e1" Title="DaExceptionHandlingConfigurationSection Properties" Url="html/a02876e0-4acd-d323-c329-ead540c38ae3.htm">
+        <HelpTOCNode Id="79ca3eb8-bbba-446b-a877-7a3fe5fae8dc" Title="DaExceptionHandlingConfigurationSection Properties" Url="html/a02876e0-4acd-d323-c329-ead540c38ae3.htm">
           <HelpTOCNode Title="DefaultExceptionPolicy Property " Url="html/c6ebf909-2060-e46e-31f2-cb9fede29851.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="e0c87691-39a0-454b-973c-425ae4b4160e" Title="DaExceptionHandlingConfigurationSection Methods" Url="html/1597393a-902c-06e8-3881-110b236371c3.htm">
+        <HelpTOCNode Id="c4612c29-0b65-4a41-b244-f5b0d6fb84c7" Title="DaExceptionHandlingConfigurationSection Methods" Url="html/1597393a-902c-06e8-3881-110b236371c3.htm">
           <HelpTOCNode Title="GetConfigurationSectionName Method " Url="html/371cdc93-8d77-bf39-617c-a4b4e7204221.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="fc33b5e5-fa40-43bb-b588-ab1507dcbc19" Title="IDaExceptionManager Interface" Url="html/dde1efb1-b72f-2685-f310-3eaab33cc374.htm">
-        <HelpTOCNode Id="ea0f4870-7e96-42ed-9d22-18f0d3e41e5a" Title="IDaExceptionManager Methods" Url="html/3f3b2593-3cf8-9b90-c8e2-cd80ff4d44d5.htm">
-          <HelpTOCNode Id="96ec00dd-7962-418b-9dfd-9a0a74eb5edf" Title="HandleExpcetion Method " Url="html/abbc25cc-90a4-9e1c-0ec3-73f14e672049.htm">
+      <HelpTOCNode Id="398a55ef-038a-4ce1-b7cf-7e9382ae2fb6" Title="IDaExceptionManager Interface" Url="html/dde1efb1-b72f-2685-f310-3eaab33cc374.htm">
+        <HelpTOCNode Id="0d7bdb9f-df5c-476a-a47e-e3c498f11036" Title="IDaExceptionManager Methods" Url="html/3f3b2593-3cf8-9b90-c8e2-cd80ff4d44d5.htm">
+          <HelpTOCNode Id="2288f4de-3194-4428-9275-7a3a3b44f0fa" Title="HandleExpcetion Method " Url="html/abbc25cc-90a4-9e1c-0ec3-73f14e672049.htm">
             <HelpTOCNode Title="HandleExpcetion Method (Exception)" Url="html/21544322-6d1a-9cff-d40f-436a40a6d8a9.htm" />
             <HelpTOCNode Title="HandleExpcetion Method (Exception, String)" Url="html/3c2865c3-9aa5-5460-2e6f-e5b02869d4e0.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="ba91e82e-b411-45c6-93cb-37b92cea82e3" Title="Ejyle.DevAccelerate.Core.Logging" Url="html/e4ade9ef-abd8-2b8f-6040-5cd28b997bb9.htm">
-      <HelpTOCNode Id="0ce63009-95f8-4dec-8e2f-253c5e9a1ff4" Title="DaLoggingConfigurationSection Class" Url="html/639b2e05-87a2-7e68-fadc-e1d055a9fd16.htm">
+    <HelpTOCNode Id="31dc4639-e62e-4eeb-95cb-785258eda558" Title="Ejyle.DevAccelerate.Core.Logging" Url="html/e4ade9ef-abd8-2b8f-6040-5cd28b997bb9.htm">
+      <HelpTOCNode Id="f8affc42-23c6-41e1-8546-435950b365fd" Title="DaLoggingConfigurationSection Class" Url="html/639b2e05-87a2-7e68-fadc-e1d055a9fd16.htm">
         <HelpTOCNode Title="DaLoggingConfigurationSection Constructor " Url="html/a84ff2a5-5d5b-ea16-9432-a8d1874f49df.htm" />
         <HelpTOCNode Title="DaLoggingConfigurationSection Properties" Url="html/0f95f212-172f-c167-e118-8157822f4ff6.htm" />
-        <HelpTOCNode Id="d44d0c03-f387-4e07-9cf6-fd6ed4a68f24" Title="DaLoggingConfigurationSection Methods" Url="html/32c9528f-5e1b-e73b-6ec6-7b715ae949cf.htm">
+        <HelpTOCNode Id="30b49775-0f25-49e3-906e-a6f9fa4383c8" Title="DaLoggingConfigurationSection Methods" Url="html/32c9528f-5e1b-e73b-6ec6-7b715ae949cf.htm">
           <HelpTOCNode Title="GetConfigurationSectionName Method " Url="html/0bca0d6d-623c-8ebb-a93a-091068a943b6.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="56ada4e1-8aa2-45c7-b677-1881f9ec7248" Title="DaLogMessage Class" Url="html/5bf53b46-6c3f-c474-78a3-86f625733229.htm">
+      <HelpTOCNode Id="7aa72a99-fc0c-45a1-83de-7cd5405980e0" Title="DaLogMessage Class" Url="html/5bf53b46-6c3f-c474-78a3-86f625733229.htm">
         <HelpTOCNode Title="DaLogMessage Constructor " Url="html/b1e5c18c-6fbb-d1f1-c153-9b54a4a1107c.htm" />
-        <HelpTOCNode Id="cd5d32e0-bd88-4243-b74d-6e3291612ef3" Title="DaLogMessage Properties" Url="html/af519d74-0151-ff88-7363-27fc1e98ee95.htm">
+        <HelpTOCNode Id="f5240386-d659-4b08-beb5-e4ef8415c343" Title="DaLogMessage Properties" Url="html/af519d74-0151-ff88-7363-27fc1e98ee95.htm">
           <HelpTOCNode Title="Categories Property " Url="html/7480ba34-3d35-366f-2ca2-85b9f421c0ea.htm" />
           <HelpTOCNode Title="Date Property " Url="html/7273a370-9736-7dc2-bb42-105d13693081.htm" />
           <HelpTOCNode Title="Priority Property " Url="html/1cf8bb76-be7b-3fea-2a2f-22c1c980ccc4.htm" />
@@ -205,13 +213,13 @@
         </HelpTOCNode>
         <HelpTOCNode Title="DaLogMessage Methods" Url="html/01f7272c-f0e8-5a6a-5371-41dfc94a9862.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="17c67e6f-9e7a-4eb4-b2e3-3809468f6c63" Title="IDaLogManager Interface" Url="html/eec87ad3-f984-8592-5f2f-02f6ee17fc79.htm">
-        <HelpTOCNode Id="526b820d-d036-4937-a284-739a073dd3f6" Title="IDaLogManager Methods" Url="html/9847f468-9cbf-7946-9433-0eba2414536a.htm">
+      <HelpTOCNode Id="630fdd91-d325-453b-9c5d-dc9ccae91c9b" Title="IDaLogManager Interface" Url="html/eec87ad3-f984-8592-5f2f-02f6ee17fc79.htm">
+        <HelpTOCNode Id="bc810dc3-a441-4eeb-837f-be154d045f7b" Title="IDaLogManager Methods" Url="html/9847f468-9cbf-7946-9433-0eba2414536a.htm">
           <HelpTOCNode Title="Write Method " Url="html/204a3454-8ed1-06f6-de18-71bf89122673.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="9710069e-f8d1-45ce-93e7-f9db861a3e98" Title="IDaLogMessage Interface" Url="html/68f8b905-9b9f-02df-8ea3-c010cf4440b9.htm">
-        <HelpTOCNode Id="29e7b92b-54a8-47bc-9f39-61950a712a82" Title="IDaLogMessage Properties" Url="html/d946d89a-af74-19ac-9b1e-53e8c55f0810.htm">
+      <HelpTOCNode Id="3dff8698-2f66-4809-9683-dad44c501d3b" Title="IDaLogMessage Interface" Url="html/68f8b905-9b9f-02df-8ea3-c010cf4440b9.htm">
+        <HelpTOCNode Id="6ffb1f3f-9434-4d5b-8d96-26fd8113c071" Title="IDaLogMessage Properties" Url="html/d946d89a-af74-19ac-9b1e-53e8c55f0810.htm">
           <HelpTOCNode Title="Categories Property " Url="html/027485aa-5107-e2e9-d4e1-f00721081b9c.htm" />
           <HelpTOCNode Title="Date Property " Url="html/e2485655-f604-aeec-1aa4-1c0e5ef9cb7e.htm" />
           <HelpTOCNode Title="Priority Property " Url="html/73924af2-5ac1-1e8a-661d-d60cb9e5bcf6.htm" />

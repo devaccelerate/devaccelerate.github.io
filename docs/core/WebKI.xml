@@ -35,6 +35,11 @@
   <HelpKINode Title="DaApplicationContext.GetConfiguration&lt;TConfigurationSection&gt; method" Url="html/62443cdd-4a84-2971-261d-45e22c1b2755.htm" />
   <HelpKINode Title="DaApplicationContext.SetupConfiguration(Of TConfigurationSection) method" Url="html/b4063dce-1abb-f2b6-adb6-edf524cafb10.htm" />
   <HelpKINode Title="DaApplicationContext.SetupConfiguration&lt;TConfigurationSection&gt; method" Url="html/b4063dce-1abb-f2b6-adb6-edf524cafb10.htm" />
+  <HelpKINode Title="DaAsyncHelper class">
+    <HelpKINode Title="DaAsyncHelper Class" Url="html/b0f7132d-12a9-dc03-b616-4797cce79f0b.htm" />
+    <HelpKINode Title="methods" Url="html/bb955d4d-8f36-9abb-16ad-3f4232a2eb0c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DaAsyncHelper.RunSync method" Url="html/32a7e7e2-1371-47af-339f-f6f2aee156f9.htm" />
   <HelpKINode Title="DaCachingConfigurationSection class">
     <HelpKINode Title="DaCachingConfigurationSection Class" Url="html/0495bd6c-e384-3996-f40c-04318221739e.htm" />
     <HelpKINode Title="constructor" Url="html/861972fc-dee1-eb38-68c9-e682717ebd89.htm" />
@@ -248,6 +253,7 @@
   <HelpKINode Title="Ejyle.DevAccelerate.Core.Configuration.DaProviderConfigurationSection&lt;TProviderConfigurationElementCollection, TDaProviderConfigurationElement&gt; class" Url="html/dac2abcb-4ed0-bd4f-185d-a932cde6bc7d.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.Configuration.IDaConfigurationSource interface" Url="html/de5d4975-325a-1618-1e08-a6392f5e8980.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.DaApplicationContext class" Url="html/232a3ddc-23db-87f5-450a-aeeaa054dd71.htm" />
+  <HelpKINode Title="Ejyle.DevAccelerate.Core.DaAsyncHelper class" Url="html/b0f7132d-12a9-dc03-b616-4797cce79f0b.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.DaEntityBase class" Url="html/613359b7-0620-f3a1-845b-ed7fa1bfb275.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.DaEntityBase(Of TKey) class" Url="html/fef3bf6a-9440-8645-24f7-6369862ebdf0.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.DaEntityBase&lt;TKey&gt; class" Url="html/fef3bf6a-9440-8645-24f7-6369862ebdf0.htm" />
@@ -374,6 +380,7 @@
   <HelpKINode Title="Remove method" Url="html/f157896b-d07f-fd26-ec13-0f38eb60f083.htm" />
   <HelpKINode Title="RemoveAt method" Url="html/96dd9a6f-a8e8-f3df-0d58-2647d1c213e6.htm" />
   <HelpKINode Title="Repository property" Url="html/f26adb81-db6d-31d3-46db-86763188dd79.htm" />
+  <HelpKINode Title="RunSync method" Url="html/32a7e7e2-1371-47af-339f-f6f2aee156f9.htm" />
   <HelpKINode Title="Save method">
     <HelpKINode Title="DaDefaultConfigurationSource.Save Method " Url="html/46f30814-6e57-fe30-451d-7ed758ea5069.htm" />
     <HelpKINode Title="DaFileConfigurationSource.Save Method " Url="html/2436ab6a-7b90-3ec0-50d3-24d38aaf9e2d.htm" />
