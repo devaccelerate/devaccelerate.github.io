@@ -8,6 +8,22 @@
     }
 }
 
+a.icon-github {
+    color: #323131;
+}
+
+a.icon-html5 {
+    color: #e44d26;
+}
+
+a.icon-github:hover {
+    color: #323131;
+}
+
+a.icon-html5:hover {
+    color: #e44d26;
+}
+
 .container {
     max-width: 960px;
 }
