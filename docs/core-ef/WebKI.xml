@@ -10,6 +10,7 @@
   <HelpKINode Title="DaEntityRepositoryBase(Of TKey, TEntity, TDbContext).DbContext property" Url="html/0d061160-fbd1-8b92-162e-ae55448f7927.htm" />
   <HelpKINode Title="DaEntityRepositoryBase(Of TKey, TEntity, TDbContext).Dispose method" Url="html/6e20e2b4-2b1a-8354-51ed-127e408d687a.htm" />
   <HelpKINode Title="DaEntityRepositoryBase(Of TKey, TEntity, TDbContext).ThrowIfArgumentIsNull method" Url="html/8873d36c-a8f5-4e7f-8ef8-10a50417f86a.htm" />
+  <HelpKINode Title="DaEntityRepositoryBase(Of TKey, TEntity, TDbContext).ThrowIfArgumentIsNullOrEmpty method" Url="html/40e6881b-ed81-81fe-9fdb-d5f3275fccbe.htm" />
   <HelpKINode Title="DaEntityRepositoryBase(Of TKey, TEntity, TDbContext).ThrowIfDisposed method" Url="html/10ded4ee-0457-6f5e-af62-a5a33dfc5761.htm" />
   <HelpKINode Title="DaEntityRepositoryBase&lt;TKey, TEntity, TDbContext&gt; class">
     <HelpKINode Title="DaEntityRepositoryBase(TKey, TEntity, TDbContext) Class" Url="html/05f20c6c-23d6-526b-659f-b2584648b67a.htm" />
@@ -21,6 +22,7 @@
   <HelpKINode Title="DaEntityRepositoryBase&lt;TKey, TEntity, TDbContext&gt;.DbContext property" Url="html/0d061160-fbd1-8b92-162e-ae55448f7927.htm" />
   <HelpKINode Title="DaEntityRepositoryBase&lt;TKey, TEntity, TDbContext&gt;.Dispose method" Url="html/6e20e2b4-2b1a-8354-51ed-127e408d687a.htm" />
   <HelpKINode Title="DaEntityRepositoryBase&lt;TKey, TEntity, TDbContext&gt;.ThrowIfArgumentIsNull method" Url="html/8873d36c-a8f5-4e7f-8ef8-10a50417f86a.htm" />
+  <HelpKINode Title="DaEntityRepositoryBase&lt;TKey, TEntity, TDbContext&gt;.ThrowIfArgumentIsNullOrEmpty method" Url="html/40e6881b-ed81-81fe-9fdb-d5f3275fccbe.htm" />
   <HelpKINode Title="DaEntityRepositoryBase&lt;TKey, TEntity, TDbContext&gt;.ThrowIfDisposed method" Url="html/10ded4ee-0457-6f5e-af62-a5a33dfc5761.htm" />
   <HelpKINode Title="DbContext property" Url="html/0d061160-fbd1-8b92-162e-ae55448f7927.htm" />
   <HelpKINode Title="Dispose method" Url="html/6e20e2b4-2b1a-8354-51ed-127e408d687a.htm" />
@@ -28,5 +30,6 @@
   <HelpKINode Title="Ejyle.DevAccelerate.Core.EF.DaEntityRepositoryBase(Of TKey, TEntity, TDbContext) class" Url="html/05f20c6c-23d6-526b-659f-b2584648b67a.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.EF.DaEntityRepositoryBase&lt;TKey, TEntity, TDbContext&gt; class" Url="html/05f20c6c-23d6-526b-659f-b2584648b67a.htm" />
   <HelpKINode Title="ThrowIfArgumentIsNull method" Url="html/8873d36c-a8f5-4e7f-8ef8-10a50417f86a.htm" />
+  <HelpKINode Title="ThrowIfArgumentIsNullOrEmpty method" Url="html/40e6881b-ed81-81fe-9fdb-d5f3275fccbe.htm" />
   <HelpKINode Title="ThrowIfDisposed method" Url="html/10ded4ee-0457-6f5e-af62-a5a33dfc5761.htm" />
 </HelpKI>
