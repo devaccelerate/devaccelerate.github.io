@@ -113,6 +113,8 @@
   <HelpKINode Title="DaEntityManagerBase(Of TKey, TEntity, TEntityRepository).DaEntityManagerBase constructor" Url="html/58596800-0c33-23e8-c3f9-bf6ef62fbd7f.htm" />
   <HelpKINode Title="DaEntityManagerBase(Of TKey, TEntity, TEntityRepository).Dispose method" Url="html/8c89b696-afed-8107-7c55-23da98b7f2f7.htm" />
   <HelpKINode Title="DaEntityManagerBase(Of TKey, TEntity, TEntityRepository).Repository property" Url="html/f26adb81-db6d-31d3-46db-86763188dd79.htm" />
+  <HelpKINode Title="DaEntityManagerBase(Of TKey, TEntity, TEntityRepository).ThrowIfArgumentIsNull method" Url="html/3f11930a-c7d8-58ab-b42a-34ab38ec8438.htm" />
+  <HelpKINode Title="DaEntityManagerBase(Of TKey, TEntity, TEntityRepository).ThrowIfDisposed method" Url="html/231c473a-28c5-2c9f-4ef7-aaa127f3e937.htm" />
   <HelpKINode Title="DaEntityManagerBase&lt;TKey, TEntity, TEntityRepository&gt; class">
     <HelpKINode Title="DaEntityManagerBase(TKey, TEntity, TEntityRepository) Class" Url="html/352b99c0-cbe9-adce-02c3-ef2a6e2daa9e.htm" />
     <HelpKINode Title="constructor" Url="html/58596800-0c33-23e8-c3f9-bf6ef62fbd7f.htm" />
@@ -122,6 +124,8 @@
   <HelpKINode Title="DaEntityManagerBase&lt;TKey, TEntity, TEntityRepository&gt;.DaEntityManagerBase constructor" Url="html/58596800-0c33-23e8-c3f9-bf6ef62fbd7f.htm" />
   <HelpKINode Title="DaEntityManagerBase&lt;TKey, TEntity, TEntityRepository&gt;.Dispose method" Url="html/8c89b696-afed-8107-7c55-23da98b7f2f7.htm" />
   <HelpKINode Title="DaEntityManagerBase&lt;TKey, TEntity, TEntityRepository&gt;.Repository property" Url="html/f26adb81-db6d-31d3-46db-86763188dd79.htm" />
+  <HelpKINode Title="DaEntityManagerBase&lt;TKey, TEntity, TEntityRepository&gt;.ThrowIfArgumentIsNull method" Url="html/3f11930a-c7d8-58ab-b42a-34ab38ec8438.htm" />
+  <HelpKINode Title="DaEntityManagerBase&lt;TKey, TEntity, TEntityRepository&gt;.ThrowIfDisposed method" Url="html/231c473a-28c5-2c9f-4ef7-aaa127f3e937.htm" />
   <HelpKINode Title="DaExceptionHandlingConfigurationSection class">
     <HelpKINode Title="DaExceptionHandlingConfigurationSection Class" Url="html/0e7a5b1b-09f9-dee7-5f4d-609a81767728.htm" />
     <HelpKINode Title="constructor" Url="html/6cb3138d-a2dd-3d8a-848c-202a898686bb.htm" />
@@ -392,6 +396,8 @@
     <HelpKINode Title="DaLogMessage.Text Property " Url="html/ecc4abc5-137c-cb76-b148-db8964beff19.htm" />
     <HelpKINode Title="IDaLogMessage.Text Property " Url="html/794d1823-cb95-e6d0-f0ac-ae4dd98f86a1.htm" />
   </HelpKINode>
+  <HelpKINode Title="ThrowIfArgumentIsNull method" Url="html/3f11930a-c7d8-58ab-b42a-34ab38ec8438.htm" />
+  <HelpKINode Title="ThrowIfDisposed method" Url="html/231c473a-28c5-2c9f-4ef7-aaa127f3e937.htm" />
   <HelpKINode Title="Title property">
     <HelpKINode Title="DaLogMessage.Title Property " Url="html/bb497c32-ab46-c3da-bec8-589cd13c0d85.htm" />
     <HelpKINode Title="IDaLogMessage.Title Property " Url="html/46683e12-efa5-6681-8073-eaf11d6b4bcf.htm" />
