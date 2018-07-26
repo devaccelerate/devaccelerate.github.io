@@ -60,6 +60,17 @@
   <HelpKINode Title="DaConfigurationSection.GetSchema method" Url="html/4b5e1f83-de75-0731-5a84-7b60005002d6.htm" />
   <HelpKINode Title="DaConfigurationSection.ReadXml method" Url="html/88fdf8bc-2bcc-27f3-d635-dc3b8e7f15a0.htm" />
   <HelpKINode Title="DaConfigurationSection.WriteXml method" Url="html/3bb314d9-567b-23c0-bbf6-cfd9daca6cdb.htm" />
+  <HelpKINode Title="DaDataPagination class">
+    <HelpKINode Title="DaDataPagination Class" Url="html/473669cb-2f94-7363-2bd9-f04b3b150718.htm" />
+    <HelpKINode Title="constructor" Url="html/4723d83d-6b52-6a91-9b66-7d9b91c536d2.htm" />
+    <HelpKINode Title="methods" Url="html/b4f5e6d5-748a-bceb-f88e-10a004750e17.htm" />
+    <HelpKINode Title="properties" Url="html/0af39da1-05aa-6e05-f092-b4fd28b6479b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DaDataPagination.DaDataPagination constructor" Url="html/4723d83d-6b52-6a91-9b66-7d9b91c536d2.htm" />
+  <HelpKINode Title="DaDataPagination.MinimumPages property" Url="html/919acb24-c12f-09cc-2783-bd7a6f0ebaf5.htm" />
+  <HelpKINode Title="DaDataPagination.PageSize property" Url="html/1f78a2a0-4808-185b-7090-5e42f8881e50.htm" />
+  <HelpKINode Title="DaDataPagination.TotalItems property" Url="html/bb4ff6c1-140e-9ca7-0549-f66ca5a4d912.htm" />
+  <HelpKINode Title="DaDataPagination.TotalPages property" Url="html/404ce2dc-ba48-a7ea-06b0-ac10bb1348e4.htm" />
   <HelpKINode Title="DaDefaultCacheManager class">
     <HelpKINode Title="DaDefaultCacheManager Class" Url="html/4ff02083-fab8-6c4d-4eeb-6b0f840ce3b0.htm" />
     <HelpKINode Title="constructor" Url="html/7173be6d-eb8e-b56f-2b3a-8ff5f73d31c6.htm" />
@@ -265,6 +276,8 @@
   <HelpKINode Title="Ejyle.DevAccelerate.Core.DaEntityBase&lt;TKey&gt; class" Url="html/fef3bf6a-9440-8645-24f7-6369862ebdf0.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.DaEntityManagerBase(Of TKey, TEntity, TEntityRepository) class" Url="html/352b99c0-cbe9-adce-02c3-ef2a6e2daa9e.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.DaEntityManagerBase&lt;TKey, TEntity, TEntityRepository&gt; class" Url="html/352b99c0-cbe9-adce-02c3-ef2a6e2daa9e.htm" />
+  <HelpKINode Title="Ejyle.DevAccelerate.Core.Data namespace" Url="html/c2373257-428d-6bbd-18e8-cb5cf75c955d.htm" />
+  <HelpKINode Title="Ejyle.DevAccelerate.Core.Data.DaDataPagination class" Url="html/473669cb-2f94-7363-2bd9-f04b3b150718.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.Exceptions namespace" Url="html/34c922fd-0da9-78c5-652d-142f26626c1b.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.Exceptions.DaExceptionHandlingConfigurationSection class" Url="html/0e7a5b1b-09f9-dee7-5f4d-609a81767728.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.Exceptions.IDaExceptionManager interface" Url="html/dde1efb1-b72f-2685-f310-3eaab33cc374.htm" />
@@ -376,7 +389,9 @@
   <HelpKINode Title="IDaLogMessage.Priority property" Url="html/73924af2-5ac1-1e8a-661d-d60cb9e5bcf6.htm" />
   <HelpKINode Title="IDaLogMessage.Text property" Url="html/794d1823-cb95-e6d0-f0ac-ae4dd98f86a1.htm" />
   <HelpKINode Title="IDaLogMessage.Title property" Url="html/46683e12-efa5-6681-8073-eaf11d6b4bcf.htm" />
+  <HelpKINode Title="MinimumPages property" Url="html/919acb24-c12f-09cc-2783-bd7a6f0ebaf5.htm" />
   <HelpKINode Title="Name property" Url="html/5294fafd-cc3e-001e-b2b4-e2235eeb2330.htm" />
+  <HelpKINode Title="PageSize property" Url="html/1f78a2a0-4808-185b-7090-5e42f8881e50.htm" />
   <HelpKINode Title="Priority property">
     <HelpKINode Title="DaLogMessage.Priority Property " Url="html/1cf8bb76-be7b-3fea-2a2f-22c1c980ccc4.htm" />
     <HelpKINode Title="IDaLogMessage.Priority Property " Url="html/73924af2-5ac1-1e8a-661d-d60cb9e5bcf6.htm" />
@@ -405,6 +420,8 @@
     <HelpKINode Title="DaLogMessage.Title Property " Url="html/bb497c32-ab46-c3da-bec8-589cd13c0d85.htm" />
     <HelpKINode Title="IDaLogMessage.Title Property " Url="html/46683e12-efa5-6681-8073-eaf11d6b4bcf.htm" />
   </HelpKINode>
+  <HelpKINode Title="TotalItems property" Url="html/bb4ff6c1-140e-9ca7-0549-f66ca5a4d912.htm" />
+  <HelpKINode Title="TotalPages property" Url="html/404ce2dc-ba48-a7ea-06b0-ac10bb1348e4.htm" />
   <HelpKINode Title="Type property" Url="html/dca384ed-94f0-878a-aefe-5634f57c4813.htm" />
   <HelpKINode Title="Write method" Url="html/204a3454-8ed1-06f6-de18-71bf89122673.htm" />
   <HelpKINode Title="WriteXml method" Url="html/3bb314d9-567b-23c0-bbf6-cfd9daca6cdb.htm" />
