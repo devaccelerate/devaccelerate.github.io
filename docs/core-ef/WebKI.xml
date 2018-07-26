@@ -24,24 +24,6 @@
   <HelpKINode Title="DaEntityRepositoryBase&lt;TKey, TEntity, TDbContext&gt;.ThrowIfArgumentIsNull method" Url="html/8873d36c-a8f5-4e7f-8ef8-10a50417f86a.htm" />
   <HelpKINode Title="DaEntityRepositoryBase&lt;TKey, TEntity, TDbContext&gt;.ThrowIfArgumentIsNullOrEmpty method" Url="html/40e6881b-ed81-81fe-9fdb-d5f3275fccbe.htm" />
   <HelpKINode Title="DaEntityRepositoryBase&lt;TKey, TEntity, TDbContext&gt;.ThrowIfDisposed method" Url="html/10ded4ee-0457-6f5e-af62-a5a33dfc5761.htm" />
-  <HelpKINode Title="DaPaginatedEntityList(Of TKey, TEntity) class">
-    <HelpKINode Title="DaPaginatedEntityList(TKey, TEntity) Class" Url="html/af2d1b00-ab7b-abd7-7630-f2d29156a4b3.htm" />
-    <HelpKINode Title="constructor" Url="html/4cb35cc0-ed72-74fd-e6c3-9e340ab6dd9f.htm" />
-    <HelpKINode Title="methods" Url="html/3072171f-9bd5-b287-b620-e24d11144f07.htm" />
-    <HelpKINode Title="properties" Url="html/49d1672d-7f69-ee27-a79e-fa11daefee4e.htm" />
-  </HelpKINode>
-  <HelpKINode Title="DaPaginatedEntityList(Of TKey, TEntity).DaPaginatedEntityList constructor" Url="html/4cb35cc0-ed72-74fd-e6c3-9e340ab6dd9f.htm" />
-  <HelpKINode Title="DaPaginatedEntityList(Of TKey, TEntity).Entities property" Url="html/43347798-7c74-1092-e7f1-1b8d1e7ac572.htm" />
-  <HelpKINode Title="DaPaginatedEntityList(Of TKey, TEntity).Pagination property" Url="html/d1e6f6ed-3494-ddf0-9eea-3bdbd12530f2.htm" />
-  <HelpKINode Title="DaPaginatedEntityList&lt;TKey, TEntity&gt; class">
-    <HelpKINode Title="DaPaginatedEntityList(TKey, TEntity) Class" Url="html/af2d1b00-ab7b-abd7-7630-f2d29156a4b3.htm" />
-    <HelpKINode Title="constructor" Url="html/4cb35cc0-ed72-74fd-e6c3-9e340ab6dd9f.htm" />
-    <HelpKINode Title="methods" Url="html/3072171f-9bd5-b287-b620-e24d11144f07.htm" />
-    <HelpKINode Title="properties" Url="html/49d1672d-7f69-ee27-a79e-fa11daefee4e.htm" />
-  </HelpKINode>
-  <HelpKINode Title="DaPaginatedEntityList&lt;TKey, TEntity&gt;.DaPaginatedEntityList constructor" Url="html/4cb35cc0-ed72-74fd-e6c3-9e340ab6dd9f.htm" />
-  <HelpKINode Title="DaPaginatedEntityList&lt;TKey, TEntity&gt;.Entities property" Url="html/43347798-7c74-1092-e7f1-1b8d1e7ac572.htm" />
-  <HelpKINode Title="DaPaginatedEntityList&lt;TKey, TEntity&gt;.Pagination property" Url="html/d1e6f6ed-3494-ddf0-9eea-3bdbd12530f2.htm" />
   <HelpKINode Title="DaQueryableExtensions class">
     <HelpKINode Title="DaQueryableExtensions Class" Url="html/6107f1b0-1a43-dd48-976f-1e31bd444c07.htm" />
     <HelpKINode Title="methods" Url="html/32aecaca-4562-97eb-42df-4f767ab703a9.htm" />
@@ -55,15 +37,11 @@
   <HelpKINode Title="Ejyle.DevAccelerate.Core.EF namespace" Url="html/b964548f-3f5f-8367-0724-7487dff544b8.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.EF.DaEntityRepositoryBase(Of TKey, TEntity, TDbContext) class" Url="html/05f20c6c-23d6-526b-659f-b2584648b67a.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.EF.DaEntityRepositoryBase&lt;TKey, TEntity, TDbContext&gt; class" Url="html/05f20c6c-23d6-526b-659f-b2584648b67a.htm" />
-  <HelpKINode Title="Ejyle.DevAccelerate.Core.EF.DaPaginatedEntityList(Of TKey, TEntity) class" Url="html/af2d1b00-ab7b-abd7-7630-f2d29156a4b3.htm" />
-  <HelpKINode Title="Ejyle.DevAccelerate.Core.EF.DaPaginatedEntityList&lt;TKey, TEntity&gt; class" Url="html/af2d1b00-ab7b-abd7-7630-f2d29156a4b3.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.EF.DaQueryableExtensions class" Url="html/6107f1b0-1a43-dd48-976f-1e31bd444c07.htm" />
-  <HelpKINode Title="Entities property" Url="html/43347798-7c74-1092-e7f1-1b8d1e7ac572.htm" />
   <HelpKINode Title="Paginate(Of TKey, TEntity) method" Url="html/056827a5-f56a-6cb6-b18f-e6b5d1f2ef9a.htm" />
   <HelpKINode Title="Paginate&lt;TKey, TEntity&gt; method" Url="html/056827a5-f56a-6cb6-b18f-e6b5d1f2ef9a.htm" />
   <HelpKINode Title="PaginateAsync(Of TKey, TEntity) method" Url="html/433e7cf9-8fea-b165-3b03-108bf7588c77.htm" />
   <HelpKINode Title="PaginateAsync&lt;TKey, TEntity&gt; method" Url="html/433e7cf9-8fea-b165-3b03-108bf7588c77.htm" />
-  <HelpKINode Title="Pagination property" Url="html/d1e6f6ed-3494-ddf0-9eea-3bdbd12530f2.htm" />
   <HelpKINode Title="ThrowIfArgumentIsNull method" Url="html/8873d36c-a8f5-4e7f-8ef8-10a50417f86a.htm" />
   <HelpKINode Title="ThrowIfArgumentIsNullOrEmpty method" Url="html/40e6881b-ed81-81fe-9fdb-d5f3275fccbe.htm" />
   <HelpKINode Title="ThrowIfDisposed method" Url="html/10ded4ee-0457-6f5e-af62-a5a33dfc5761.htm" />
