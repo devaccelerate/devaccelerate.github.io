@@ -188,6 +188,24 @@
   <HelpKINode Title="DaLogMessage.Priority property" Url="html/1cf8bb76-be7b-3fea-2a2f-22c1c980ccc4.htm" />
   <HelpKINode Title="DaLogMessage.Text property" Url="html/ecc4abc5-137c-cb76-b148-db8964beff19.htm" />
   <HelpKINode Title="DaLogMessage.Title property" Url="html/bb497c32-ab46-c3da-bec8-589cd13c0d85.htm" />
+  <HelpKINode Title="DaPaginatedEntityList(Of TKey, TEntity) class">
+    <HelpKINode Title="DaPaginatedEntityList(TKey, TEntity) Class" Url="html/1509d426-18fd-118f-e6db-90a60c16f5a4.htm" />
+    <HelpKINode Title="constructor" Url="html/8405c1b0-af30-92b0-f1e6-01d108e0d2fc.htm" />
+    <HelpKINode Title="methods" Url="html/5ab4a38a-85e6-31c9-235e-bbdbf95b62da.htm" />
+    <HelpKINode Title="properties" Url="html/a5d113f4-f26a-2f0b-3e4c-6dd94fea41ee.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DaPaginatedEntityList(Of TKey, TEntity).DaPaginatedEntityList constructor" Url="html/8405c1b0-af30-92b0-f1e6-01d108e0d2fc.htm" />
+  <HelpKINode Title="DaPaginatedEntityList(Of TKey, TEntity).Entities property" Url="html/5ae08d72-4ace-c428-1435-c64074dd746f.htm" />
+  <HelpKINode Title="DaPaginatedEntityList(Of TKey, TEntity).Pagination property" Url="html/c2e93c64-9174-f0b6-92bc-61d5a281315b.htm" />
+  <HelpKINode Title="DaPaginatedEntityList&lt;TKey, TEntity&gt; class">
+    <HelpKINode Title="DaPaginatedEntityList(TKey, TEntity) Class" Url="html/1509d426-18fd-118f-e6db-90a60c16f5a4.htm" />
+    <HelpKINode Title="constructor" Url="html/8405c1b0-af30-92b0-f1e6-01d108e0d2fc.htm" />
+    <HelpKINode Title="methods" Url="html/5ab4a38a-85e6-31c9-235e-bbdbf95b62da.htm" />
+    <HelpKINode Title="properties" Url="html/a5d113f4-f26a-2f0b-3e4c-6dd94fea41ee.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DaPaginatedEntityList&lt;TKey, TEntity&gt;.DaPaginatedEntityList constructor" Url="html/8405c1b0-af30-92b0-f1e6-01d108e0d2fc.htm" />
+  <HelpKINode Title="DaPaginatedEntityList&lt;TKey, TEntity&gt;.Entities property" Url="html/5ae08d72-4ace-c428-1435-c64074dd746f.htm" />
+  <HelpKINode Title="DaPaginatedEntityList&lt;TKey, TEntity&gt;.Pagination property" Url="html/c2e93c64-9174-f0b6-92bc-61d5a281315b.htm" />
   <HelpKINode Title="DaProviderConfigurationElement class">
     <HelpKINode Title="DaProviderConfigurationElement Class" Url="html/a0de3f52-2f1a-0bf6-64b9-9437c82c6482.htm" />
     <HelpKINode Title="constructor" Url="html/cfd4f039-5899-1b40-f3d2-c2fb19800774.htm" />
@@ -288,6 +306,8 @@
   <HelpKINode Title="Ejyle.DevAccelerate.Core.Data namespace" Url="html/c2373257-428d-6bbd-18e8-cb5cf75c955d.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.Data.DaDataPaginationCriteria class" Url="html/35dc7ee0-70a8-b2d5-0034-450ee6f97b28.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.Data.DaDataPaginationResult class" Url="html/6aee683b-d25a-f88c-ffaa-e951dd877ee4.htm" />
+  <HelpKINode Title="Ejyle.DevAccelerate.Core.Data.DaPaginatedEntityList(Of TKey, TEntity) class" Url="html/1509d426-18fd-118f-e6db-90a60c16f5a4.htm" />
+  <HelpKINode Title="Ejyle.DevAccelerate.Core.Data.DaPaginatedEntityList&lt;TKey, TEntity&gt; class" Url="html/1509d426-18fd-118f-e6db-90a60c16f5a4.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.Exceptions namespace" Url="html/34c922fd-0da9-78c5-652d-142f26626c1b.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.Exceptions.DaExceptionHandlingConfigurationSection class" Url="html/0e7a5b1b-09f9-dee7-5f4d-609a81767728.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.Exceptions.IDaExceptionManager interface" Url="html/dde1efb1-b72f-2685-f310-3eaab33cc374.htm" />
@@ -302,6 +322,7 @@
   <HelpKINode Title="Ejyle.DevAccelerate.Core.Logging.DaLogMessage class" Url="html/5bf53b46-6c3f-c474-78a3-86f625733229.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.Logging.IDaLogManager interface" Url="html/eec87ad3-f984-8592-5f2f-02f6ee17fc79.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.Logging.IDaLogMessage interface" Url="html/68f8b905-9b9f-02df-8ea3-c010cf4440b9.htm" />
+  <HelpKINode Title="Entities property" Url="html/5ae08d72-4ace-c428-1435-c64074dd746f.htm" />
   <HelpKINode Title="Flush method">
     <HelpKINode Title="DaDefaultCacheManager.Flush Method " Url="html/6d5bedcb-8e74-52c6-349e-433906e94a2b.htm" />
     <HelpKINode Title="IDaCacheManager.Flush Method " Url="html/e0405927-1206-b6d2-3746-2ccf98f5da05.htm" />
@@ -406,6 +427,7 @@
     <HelpKINode Title="DaDataPaginationCriteria.PageSize Property " Url="html/abe038c0-35a7-5e20-9d8d-909da2f4fc55.htm" />
     <HelpKINode Title="DaDataPaginationResult.PageSize Property " Url="html/f1ab38a2-c0f8-e1e7-2932-2ef1a6726068.htm" />
   </HelpKINode>
+  <HelpKINode Title="Pagination property" Url="html/c2e93c64-9174-f0b6-92bc-61d5a281315b.htm" />
   <HelpKINode Title="Priority property">
     <HelpKINode Title="DaLogMessage.Priority Property " Url="html/1cf8bb76-be7b-3fea-2a2f-22c1c980ccc4.htm" />
     <HelpKINode Title="IDaLogMessage.Priority Property " Url="html/73924af2-5ac1-1e8a-661d-d60cb9e5bcf6.htm" />
