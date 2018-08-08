@@ -1,21 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="fab19837-4790-44e3-b80f-c1203a7b79a4" Title="Ejyle.DevAccelerate.Core.EF" Url="html/b964548f-3f5f-8367-0724-7487dff544b8.htm">
-    <HelpTOCNode Id="19e963cb-2f46-4b03-9d09-13a46929ab5b" Title="DaEntityRepositoryBase(TKey, TEntity, TDbContext) Class" Url="html/05f20c6c-23d6-526b-659f-b2584648b67a.htm">
-      <HelpTOCNode Id="23f4d496-80da-411a-a7cc-e2f09dcac60c" Title="DaEntityRepositoryBase(TKey, TEntity, TDbContext) Constructor " Url="html/81c67cc5-83be-aed9-5bba-f2976da672e7.htm">
+  <HelpTOCNode Id="14b0071e-d795-4b32-83b6-f20f2a0dfef7" Title="Ejyle.DevAccelerate.Core.EF" Url="html/b964548f-3f5f-8367-0724-7487dff544b8.htm">
+    <HelpTOCNode Id="71df6691-73a7-46bb-9cc8-b9519a671c3c" Title="DaEntityRepositoryBase(TKey, TEntity, TDbContext) Class" Url="html/05f20c6c-23d6-526b-659f-b2584648b67a.htm">
+      <HelpTOCNode Id="98483834-14e6-481e-8e48-62bbe8eda99a" Title="DaEntityRepositoryBase(TKey, TEntity, TDbContext) Constructor " Url="html/81c67cc5-83be-aed9-5bba-f2976da672e7.htm">
         <HelpTOCNode Title="DaEntityRepositoryBase(TKey, TEntity, TDbContext) Constructor (TDbContext)" Url="html/8c6ac3e3-3d12-797a-8892-19bbd0fb19b2.htm" />
         <HelpTOCNode Title="DaEntityRepositoryBase(TKey, TEntity, TDbContext) Constructor (TDbContext, Boolean)" Url="html/033ace46-e20a-9e46-12d0-28bb9c581da0.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="d33620ce-c5d1-45f4-be0b-833b79dccf57" Title="DaEntityRepositoryBase(TKey, TEntity, TDbContext) Properties" Url="html/c7de858e-3472-cc9b-461d-a317367598dc.htm">
+      <HelpTOCNode Id="99ad5241-94e7-4d3f-a2e2-5c815235c085" Title="DaEntityRepositoryBase(TKey, TEntity, TDbContext) Properties" Url="html/c7de858e-3472-cc9b-461d-a317367598dc.htm">
         <HelpTOCNode Title="DbContext Property " Url="html/0d061160-fbd1-8b92-162e-ae55448f7927.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="e2b230b1-c140-4529-8d9d-66b1e8e9eb33" Title="DaEntityRepositoryBase(TKey, TEntity, TDbContext) Methods" Url="html/45e277cc-3e40-35ab-0717-371a4767171a.htm">
-        <HelpTOCNode Id="45a60893-b721-45c6-b371-8fd6764f1d96" Title="Dispose Method " Url="html/6e20e2b4-2b1a-8354-51ed-127e408d687a.htm">
+      <HelpTOCNode Id="dda86485-b486-4e6c-8266-40615626aafc" Title="DaEntityRepositoryBase(TKey, TEntity, TDbContext) Methods" Url="html/45e277cc-3e40-35ab-0717-371a4767171a.htm">
+        <HelpTOCNode Id="101375f9-5555-4493-8ba1-f7c7b74ee208" Title="Dispose Method " Url="html/6e20e2b4-2b1a-8354-51ed-127e408d687a.htm">
           <HelpTOCNode Title="Dispose Method " Url="html/91efdd89-bcd3-b818-29da-b047b6d680b5.htm" />
           <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/296ef84b-5db2-8ef4-6f14-c4cd07612805.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="05420b5b-2384-4411-90df-a68aeadf3737" Title="ThrowIfArgumentIsNull Method " Url="html/8873d36c-a8f5-4e7f-8ef8-10a50417f86a.htm">
+        <HelpTOCNode Id="7663b590-c703-4e0c-936a-941a4e481cf5" Title="HandleException Method " Url="html/b88c22b4-f5e8-b57e-8ded-7ed1228f9b81.htm">
+          <HelpTOCNode Title="HandleException Method (Exception)" Url="html/7c719b61-17e5-8c9c-fab9-dd195c8d8dba.htm" />
+          <HelpTOCNode Title="HandleException Method (Exception, String)" Url="html/a033db25-2a32-008b-d809-246e2cde41e2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="e5a05930-1807-4a06-a130-c4a1b0e84fbc" Title="Log Method " Url="html/5be0d6d9-ade0-645d-6653-793123cc4bea.htm">
+          <HelpTOCNode Title="Log Method (IDaLogMessage)" Url="html/c8a5af61-c668-f713-3441-76a9de7fa864.htm" />
+          <HelpTOCNode Title="Log Method (String)" Url="html/9b5b8f9a-88ed-57fd-d1a4-73292e292e9b.htm" />
+          <HelpTOCNode Title="Log Method (String, String)" Url="html/26e2e1b9-afa6-4a7f-9cdd-aa2b35f4b27b.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="8242e1a0-3e1a-46fc-b9b6-f10cdb6ae1e8" Title="ThrowIfArgumentIsNull Method " Url="html/8873d36c-a8f5-4e7f-8ef8-10a50417f86a.htm">
           <HelpTOCNode Title="ThrowIfArgumentIsNull Method (List(TEntity), String)" Url="html/31d08182-1e5d-b21f-4220-c302088ecb66.htm" />
           <HelpTOCNode Title="ThrowIfArgumentIsNull(TEntityArg) Method (List(TEntityArg), String)" Url="html/6a3a6bc0-7daa-7084-87e8-8d1c9a44d149.htm" />
           <HelpTOCNode Title="ThrowIfArgumentIsNull Method (String, String)" Url="html/352d9a86-f691-5b03-b3dc-d402cdbab284.htm" />
@@ -26,8 +35,8 @@
         <HelpTOCNode Title="ThrowIfDisposed Method " Url="html/10ded4ee-0457-6f5e-af62-a5a33dfc5761.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="287a4d36-7111-4737-9686-a9331432d3ed" Title="DaQueryableExtensions Class" Url="html/6107f1b0-1a43-dd48-976f-1e31bd444c07.htm">
-      <HelpTOCNode Id="2fc8d577-de29-4294-a9be-b5471ba3c463" Title="DaQueryableExtensions Methods" Url="html/32aecaca-4562-97eb-42df-4f767ab703a9.htm">
+    <HelpTOCNode Id="1f9d26c4-c1df-4bc1-adb2-08f5550f4555" Title="DaQueryableExtensions Class" Url="html/6107f1b0-1a43-dd48-976f-1e31bd444c07.htm">
+      <HelpTOCNode Id="11980259-2179-4f26-a9fa-715beaddfcc0" Title="DaQueryableExtensions Methods" Url="html/32aecaca-4562-97eb-42df-4f767ab703a9.htm">
         <HelpTOCNode Title="Paginate(TKey, TEntity) Method " Url="html/056827a5-f56a-6cb6-b18f-e6b5d1f2ef9a.htm" />
         <HelpTOCNode Title="PaginateAsync(TKey, TEntity) Method " Url="html/433e7cf9-8fea-b165-3b03-108bf7588c77.htm" />
       </HelpTOCNode>
