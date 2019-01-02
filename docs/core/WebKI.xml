@@ -74,6 +74,7 @@
   </HelpKINode>
   <HelpKINode Title="DaDataConfigurationSection.DaDataConfigurationSection constructor" Url="html/5f3c9c6c-11e5-bd09-4d2b-e1f2368f989a.htm" />
   <HelpKINode Title="DaDataConfigurationSection.DbConnection property" Url="html/6d11ee6d-21b1-788f-95e3-815a85ab98c6.htm" />
+  <HelpKINode Title="DaDataConfigurationSection.GetConfigurationSectionName method" Url="html/94610fed-3c67-3dff-88dc-c3205eac8372.htm" />
   <HelpKINode Title="DaDataPaginationCriteria class">
     <HelpKINode Title="DaDataPaginationCriteria Class" Url="html/35dc7ee0-70a8-b2d5-0034-450ee6f97b28.htm" />
     <HelpKINode Title="constructor" Url="html/eaa0ed0a-c9cc-a0e6-cf07-f5a302c49d1f.htm" />
@@ -353,6 +354,23 @@
   <HelpKINode Title="DaProviderConfigurationSection&lt;TProviderConfigurationElementCollection, TDaProviderConfigurationElement&gt;.DaProviderConfigurationSection constructor" Url="html/34dc1885-ac02-0564-efbe-6b1b9deeebec.htm" />
   <HelpKINode Title="DaProviderConfigurationSection&lt;TProviderConfigurationElementCollection, TDaProviderConfigurationElement&gt;.DefaultProvider property" Url="html/c6abaedb-1ae4-8d55-fcd4-a3f318c173ae.htm" />
   <HelpKINode Title="DaProviderConfigurationSection&lt;TProviderConfigurationElementCollection, TDaProviderConfigurationElement&gt;.Providers property" Url="html/9fdbda73-c027-64c2-8e25-851629ebaa3e.htm" />
+  <HelpKINode Title="DaRandomNumberUtil class">
+    <HelpKINode Title="DaRandomNumberUtil Class" Url="html/5341b0d7-55e7-07be-c5c7-c7cb01f68d51.htm" />
+    <HelpKINode Title="constructor" Url="html/d60cf939-a19c-b290-ab55-1260a541e16f.htm" />
+    <HelpKINode Title="methods" Url="html/3ad61a55-15d7-576e-1505-e5aad7f3e91b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DaRandomNumberUtil.DaRandomNumberUtil constructor" Url="html/d60cf939-a19c-b290-ab55-1260a541e16f.htm" />
+  <HelpKINode Title="DaRandomNumberUtil.GenerateInt method" Url="html/e6f2e954-b253-2c9e-e091-f5b6f945ec32.htm" />
+  <HelpKINode Title="DaSqlDatabaseConfigurationSource class">
+    <HelpKINode Title="DaSqlDatabaseConfigurationSource Class" Url="html/dab9225e-ab02-c426-26c9-e1ad337ad427.htm" />
+    <HelpKINode Title="constructor" Url="html/48c458ca-c947-db89-99a3-09fdc6d1464d.htm" />
+    <HelpKINode Title="methods" Url="html/aee0bf26-00f7-2452-6bda-c5b7eae96c6f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DaSqlDatabaseConfigurationSource.DaSqlDatabaseConfigurationSource constructor" Url="html/48c458ca-c947-db89-99a3-09fdc6d1464d.htm" />
+  <HelpKINode Title="DaSqlDatabaseConfigurationSource.GetConfigurationSection(Of TConfigurationSection) method" Url="html/6ff04d7a-09d1-dd1c-6773-b07aa26a920e.htm" />
+  <HelpKINode Title="DaSqlDatabaseConfigurationSource.GetConfigurationSection&lt;TConfigurationSection&gt; method" Url="html/6ff04d7a-09d1-dd1c-6773-b07aa26a920e.htm" />
+  <HelpKINode Title="DaSqlDatabaseConfigurationSource.GetConnectionStrings method" Url="html/4e5e0efe-ae91-7843-a166-c37a9ddd8fb5.htm" />
+  <HelpKINode Title="DaSqlDatabaseConfigurationSource.Save method" Url="html/9b045d97-cc2f-aa94-c794-47a6eeac0691.htm" />
   <HelpKINode Title="Data property" Url="html/481c5a6e-f5f4-b27f-43ae-ff97fcbc1022.htm" />
   <HelpKINode Title="Date property">
     <HelpKINode Title="DaLogMessage.Date Property " Url="html/7273a370-9736-7dc2-bb42-105d13693081.htm" />
@@ -381,6 +399,7 @@
   <HelpKINode Title="Ejyle.DevAccelerate.Core.Configuration.DaProviderConfigurationSection class" Url="html/a861d6b5-9068-72c3-2984-b235695b3502.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.Configuration.DaProviderConfigurationSection(Of TProviderConfigurationElementCollection, TDaProviderConfigurationElement) class" Url="html/dac2abcb-4ed0-bd4f-185d-a932cde6bc7d.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.Configuration.DaProviderConfigurationSection&lt;TProviderConfigurationElementCollection, TDaProviderConfigurationElement&gt; class" Url="html/dac2abcb-4ed0-bd4f-185d-a932cde6bc7d.htm" />
+  <HelpKINode Title="Ejyle.DevAccelerate.Core.Configuration.DaSqlDatabaseConfigurationSource class" Url="html/dab9225e-ab02-c426-26c9-e1ad337ad427.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.Configuration.IDaConfigurationSource interface" Url="html/de5d4975-325a-1618-1e08-a6392f5e8980.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.DaAsyncHelper class" Url="html/b0f7132d-12a9-dc03-b616-4797cce79f0b.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.DaEntityBase class" Url="html/613359b7-0620-f3a1-845b-ed7fa1bfb275.htm" />
@@ -431,6 +450,8 @@
   <HelpKINode Title="Ejyle.DevAccelerate.Core.Logging.DaLogMessage class" Url="html/5bf53b46-6c3f-c474-78a3-86f625733229.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.Logging.IDaLogManager interface" Url="html/eec87ad3-f984-8592-5f2f-02f6ee17fc79.htm" />
   <HelpKINode Title="Ejyle.DevAccelerate.Core.Logging.IDaLogMessage interface" Url="html/68f8b905-9b9f-02df-8ea3-c010cf4440b9.htm" />
+  <HelpKINode Title="Ejyle.DevAccelerate.Core.Utils namespace" Url="html/26d16060-7026-d19b-3991-5e2a4872dbaa.htm" />
+  <HelpKINode Title="Ejyle.DevAccelerate.Core.Utils.DaRandomNumberUtil class" Url="html/5341b0d7-55e7-07be-c5c7-c7cb01f68d51.htm" />
   <HelpKINode Title="Entities property" Url="html/5ae08d72-4ace-c428-1435-c64074dd746f.htm" />
   <HelpKINode Title="ErrorCode property" Url="html/57fd92bd-7f50-6015-0dfa-33bd190685cf.htm" />
   <HelpKINode Title="Errors property" Url="html/624d334e-af95-3cc1-b718-b40b66727a81.htm" />
@@ -438,6 +459,7 @@
     <HelpKINode Title="DaDefaultCacheManager.Flush Method " Url="html/6d5bedcb-8e74-52c6-349e-433906e94a2b.htm" />
     <HelpKINode Title="IDaCacheManager.Flush Method " Url="html/e0405927-1206-b6d2-3746-2ccf98f5da05.htm" />
   </HelpKINode>
+  <HelpKINode Title="GenerateInt method" Url="html/e6f2e954-b253-2c9e-e091-f5b6f945ec32.htm" />
   <HelpKINode Title="GetByName method" Url="html/67395a19-d978-66f0-2e3b-94b53b806f47.htm" />
   <HelpKINode Title="GetConfiguration method">
     <HelpKINode Title="DaCachingConfigurationManager.GetConfiguration Method " Url="html/d74a0277-cacf-4acc-9ecc-63f577ba2388.htm" />
@@ -451,17 +473,27 @@
     <HelpKINode Title="DaDefaultConfigurationSource.GetConfigurationSection(T) Method " Url="html/34a7ac2f-6b63-a480-49c0-653f985be340.htm" />
     <HelpKINode Title="DaFileConfigurationSource.GetConfigurationSection(T) Method " Url="html/872de5cd-1f77-ce88-5e85-bcb9a3336881.htm" />
   </HelpKINode>
-  <HelpKINode Title="GetConfigurationSection(Of TConfigurationSection) method" Url="html/bd08892d-e358-0282-cdc0-a8bd7f53ab56.htm" />
+  <HelpKINode Title="GetConfigurationSection(Of TConfigurationSection) method">
+    <HelpKINode Title="DaSqlDatabaseConfigurationSource.GetConfigurationSection(TConfigurationSection) Method " Url="html/6ff04d7a-09d1-dd1c-6773-b07aa26a920e.htm" />
+    <HelpKINode Title="IDaConfigurationSource.GetConfigurationSection(TConfigurationSection) Method " Url="html/bd08892d-e358-0282-cdc0-a8bd7f53ab56.htm" />
+  </HelpKINode>
   <HelpKINode Title="GetConfigurationSection&lt;T&gt; method">
     <HelpKINode Title="DaDefaultConfigurationSource.GetConfigurationSection(T) Method " Url="html/34a7ac2f-6b63-a480-49c0-653f985be340.htm" />
     <HelpKINode Title="DaFileConfigurationSource.GetConfigurationSection(T) Method " Url="html/872de5cd-1f77-ce88-5e85-bcb9a3336881.htm" />
   </HelpKINode>
-  <HelpKINode Title="GetConfigurationSection&lt;TConfigurationSection&gt; method" Url="html/bd08892d-e358-0282-cdc0-a8bd7f53ab56.htm" />
-  <HelpKINode Title="GetConfigurationSectionName method" Url="html/b10aa8bd-d35c-5858-fc25-1ded4d4990fe.htm" />
+  <HelpKINode Title="GetConfigurationSection&lt;TConfigurationSection&gt; method">
+    <HelpKINode Title="DaSqlDatabaseConfigurationSource.GetConfigurationSection(TConfigurationSection) Method " Url="html/6ff04d7a-09d1-dd1c-6773-b07aa26a920e.htm" />
+    <HelpKINode Title="IDaConfigurationSource.GetConfigurationSection(TConfigurationSection) Method " Url="html/bd08892d-e358-0282-cdc0-a8bd7f53ab56.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetConfigurationSectionName method">
+    <HelpKINode Title="DaConfigurationSection.GetConfigurationSectionName Method " Url="html/b10aa8bd-d35c-5858-fc25-1ded4d4990fe.htm" />
+    <HelpKINode Title="DaDataConfigurationSection.GetConfigurationSectionName Method " Url="html/94610fed-3c67-3dff-88dc-c3205eac8372.htm" />
+  </HelpKINode>
   <HelpKINode Title="GetConnectionString method" Url="html/04fc3f68-24d9-470b-0b35-80eef7b516d9.htm" />
   <HelpKINode Title="GetConnectionStrings method">
     <HelpKINode Title="DaDefaultConfigurationSource.GetConnectionStrings Method " Url="html/c0c4fb7a-455e-c1d0-8798-dda9ed8e1e89.htm" />
     <HelpKINode Title="DaFileConfigurationSource.GetConnectionStrings Method " Url="html/bc840b99-9b61-9aa7-a6ee-ce09e28f2cb3.htm" />
+    <HelpKINode Title="DaSqlDatabaseConfigurationSource.GetConnectionStrings Method " Url="html/4e5e0efe-ae91-7843-a166-c37a9ddd8fb5.htm" />
     <HelpKINode Title="IDaConfigurationSource.GetConnectionStrings Method " Url="html/857a623c-4a8a-8aa7-424f-2cb150d2b31c.htm" />
   </HelpKINode>
   <HelpKINode Title="GetData method">
@@ -611,6 +643,7 @@
   <HelpKINode Title="Save method">
     <HelpKINode Title="DaDefaultConfigurationSource.Save Method " Url="html/46f30814-6e57-fe30-451d-7ed758ea5069.htm" />
     <HelpKINode Title="DaFileConfigurationSource.Save Method " Url="html/2436ab6a-7b90-3ec0-50d3-24d38aaf9e2d.htm" />
+    <HelpKINode Title="DaSqlDatabaseConfigurationSource.Save Method " Url="html/9b045d97-cc2f-aa94-c794-47a6eeac0691.htm" />
     <HelpKINode Title="IDaConfigurationSource.Save Method " Url="html/9280685b-8e7d-2b36-b5c1-c5b099ca1285.htm" />
   </HelpKINode>
   <HelpKINode Title="Text property">
