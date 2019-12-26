@@ -1,1 +1,72 @@
 
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="An XML specification that defines a simple workflow in DevAccelerate." />
+    <meta name="keywords" content="devaccelerate, accelerator, accelerators, simple workflow, workflow" />    
+    <meta name="author" content="Ejyle">
+    <link rel="icon" href="favicon.ico">
+
+    <title>Simple Workflow | DevAccelerate</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
+
+    <link href="css/font-awesome.min.css" rel="stylesheet" />
+
+    <!-- Custom styles for this template -->
+    <link href="css/home.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom box-shadow">
+        <h5 class="my-0 mr-md-auto font-weight-normal">Dev<strong>Accelerate</strong></h5>
+        <nav class="my-2 my-md-0 mr-md-3">
+            <a class="p-2 text-dark" href="index.html">Home</a>
+            <a class="p-2 text-dark" href="showcase.html">Showcase</a>
+            <a class="p-2 text-dark" href="https://github.com/devaccelerate/DevAccelerateNet">Source Repository</a>
+            <a class="p-2 text-dark" href="https://github.com/devaccelerate/devaccelerate.github.io/wiki">Wiki</a>
+            <a class="p-2 text-dark" href="docs/index.html">API Reference</a>
+        </nav>
+    </div>
+
+    <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+        <h1 class="display-4">DevAccelerate Simple Workflow Specification v1.0</h1>
+        <p class="lead">The following is the XML specification for simple workflows in DevAccelerate:</p>
+    </div>
+
+    <div class="container">
+    <pre>
+<?xml version="1.0" encoding="utf-8"?>
+<da:simpleWorkflow name="workflowName" abortOnError="true" xmlns:da="https://devaccelerate.github.io/schema/simple-workflow-v10.html">
+  <da:workflowItems>
+    <da:workflowItem workflowItemType="Action" name="workflowItemName" type="workflowItemType">
+      <da:settings>
+        <da:setting name="settingName" value="settingValue" />
+      </da:settings>
+      <da:expectedParameters>
+        <da:expectedParameter name="expectedParameter" parameterType="expectedParameterType" required="true" />
+      </da:expectedParameters>
+    </da:workflowItem>   
+  </da:workflowItems>
+</da:simpleWorkflow>    
+    </pre>
+    </div>
+
+        <div class="container">
+            <footer class="pt-4 my-md-5 pt-md-5 border-top">
+                <p class="d-block mb-3 text-muted text-center">Copyright © <a href="http://www.ejyle.com">Ejyle Technologies (P) Ltd</a>. All rights reserved.</p>
+            </footer>
+        </div>
+
+        <!-- Bootstrap core JavaScript
+        ================================================== -->
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
+</body>
+</html>
