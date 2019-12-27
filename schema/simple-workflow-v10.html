@@ -40,19 +40,19 @@
 
     <div class="container">
     <pre lang="xml">
-<?xml version="1.0" encoding="utf-8"?>
-<da:simpleWorkflow name="workflowName" abortOnError="true" xmlns:da="https://devaccelerate.github.io/schema/simple-workflow-v10.html">
-  <da:workflowItems>
-    <da:workflowItem workflowItemType="Action" name="workflowItemName" type="workflowItemType">
-      <da:settings>
-        <da:setting name="settingName" value="settingValue" />
-      </da:settings>
-      <da:expectedParameters>
-        <da:expectedParameter name="expectedParameter" parameterType="expectedParameterType" required="true" />
-      </da:expectedParameters>
-    </da:workflowItem>   
-  </da:workflowItems>
-</da:simpleWorkflow>
+    &lt;?xml version="1.0" encoding="utf-8"?&gt;
+    &lt;da:simpleWorkflow name="SignInWorkflow" abortOnError="true" xmlns:da="https://devaccelerate.github.io/schema/simple-workflow-v10.html"&gt;
+      &lt;da:workflowItems&gt;
+        &lt;da:workflowItem workflowItemType="Action" name="SignIn" type="Ejyle.DevAccelerate.Workflow.Security.Authentication.DaSignInWorkflowItem, Ejyle.DevAccelerate.Workflow.Security"&gt;
+          &lt;da:settings&gt;
+            &lt;da:setting name="httpSessionName" value="DA_USER_SESSION" /&gt;
+          &lt;/da:settings&gt;
+          &lt;da:expectedParameters&gt;
+            &lt;da:expectedParameter name="signInInfo" parameterType="Ejyle.DevAccelerate.Workflow.Security.Authentication.DaSignInWorkflowItemInfo, Ejyle.DevAccelerate.Workflow.Security" required="true" /&gt;
+          &lt;/da:expectedParameters&gt;
+        &lt;/da:workflowItem&gt;   
+      &lt;/da:workflowItems&gt;
+    &lt;/da:simpleWorkflow&gt;
     </pre>
     </div>
 
