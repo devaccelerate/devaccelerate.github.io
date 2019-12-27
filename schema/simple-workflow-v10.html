@@ -122,7 +122,7 @@
 
         <h4>The <code>settings</code> Element</h4>
         <p>
-            The element contains one or more <code>setting</code> element. Settings are optional and therefore this element can be completely ignored if needed.
+            The element contains one or more <code>setting</code> elements. Settings are optional and therefore this element can be completely ignored.
         </p>
 
         <h4>The <code>setting</code> Element</h4>
@@ -190,6 +190,8 @@
 
     <div class="container">
         <h3 class="pull-left">Example</h3>
+        <p>The below is an example of <strong>Sign In</strong> work flow with a single workflow item. The workflow item is an implementation of the type <strong>Ejyle.DevAccelerate.Workflow.Security.Authentication.DaSignInWorkflowItem</strong>. The setting <strong>httpSessionName</strong> instructs the workflow item to store user session in the session variable <strong>DA_USER_SESSION</strong>.</p>
+        <p>Before executing the workflow item, the Workflow service will pass the <strong>signInInfo</strong> parameter which must be of the type <strong>Ejyle.DevAccelerate.Workflow.Security.Authentication.DaSignInWorkflowItemInfo</strong>.</p>
         <pre class="prettyprint">
     &lt;?xml version="1.0" encoding="utf-8"?&gt;
     &lt;da:simpleWorkflow name="SignInWorkflow" abortOnError="true" xmlns:da="https://devaccelerate.github.io/schema/simple-workflow-v10.html"&gt;
